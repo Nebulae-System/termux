@@ -22,3 +22,5 @@ terminal and selecting the Help menu option to learn more.
 [Read help online](https://wiki.termux.com/)
 
 [Reddit Community](https://termux.com/community)
+
+[Resumen VirusTotal](https://www.virustotal.com/gui/file/c6723df058792e8c9816fae322b9a828df7fb634681c4dedede1afcec4e01633?nocache=1)
