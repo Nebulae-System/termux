@@ -20,4 +20,5 @@ distributions. Access the built-in help by long-pressing anywhere on the
 terminal and selecting the Help menu option to learn more.
 
 [Read help online](https://wiki.termux.com/)
+
 [Reddit Community](https://termux.com/community)
